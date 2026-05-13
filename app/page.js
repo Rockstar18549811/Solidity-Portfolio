@@ -139,7 +139,7 @@ export default function Home() {
 
       {/* FOOTER */}
       <footer style={{ borderTop: '1px solid var(--border)', padding: '32px 60px', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-        <span className="mono" style={{ color: 'var(--muted)', fontSize: '14px' }}>ROCKSTAR © 2025</span>
+        <span className="mono" style={{ color: 'var(--muted)', fontSize: '14px' }}>ROCKSTAR © 2026</span>
         <span className="mono" style={{ color: 'var(--muted)', fontSize: '14px' }}>Built with Next.js</span>
       </footer>
 
